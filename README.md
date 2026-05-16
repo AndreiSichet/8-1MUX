@@ -21,7 +21,7 @@ Implementation of a Boolean function by mapping the MUX data inputs to constant 
 
 ---
 
-# 🛠 Hardware Design
+# Hardware Design
 
 ## 1. The 2:1 Multiplexer (Sub-circuit)
 
