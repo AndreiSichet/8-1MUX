@@ -1,0 +1,19 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 80 49 -80 -48
+SYMATTR Description 2:1MUX with CMOS
+PIN -64 -32 LEFT 8
+PINATTR PinName Vdd
+PINATTR SpiceOrder 1
+PIN -64 -16 LEFT 8
+PINATTR PinName I0
+PINATTR SpiceOrder 2
+PIN -64 0 LEFT 8
+PINATTR PinName A
+PINATTR SpiceOrder 3
+PIN -64 16 LEFT 8
+PINATTR PinName I1
+PINATTR SpiceOrder 4
+PIN 64 0 RIGHT 8
+PINATTR PinName Out
+PINATTR SpiceOrder 5
